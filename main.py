@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 print("Main Branch Version")
+=======
+print("Simulation Branch Checkout ")
+print("Lab 1: Version Control")
+>>>>>>> simulation
 print("Author: Rachel Angel H. David")
 print("Student ID: TUPM-26-1110")
 print("Class Section: SIMULATION ")
