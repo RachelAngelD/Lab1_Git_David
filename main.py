@@ -1,4 +1,4 @@
-print("Lab 1: Version Control")
+print("Main Branch Version")
 print("Author: Rachel Angel H. David")
 print("Student ID: TUPM-26-1110")
 print("Class Section: SIMULATION ")
